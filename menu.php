@@ -14,7 +14,7 @@
                   <div class="collapse navbar-collapse paginas" id="navbarCollapse">
                      <ul class="navbar-nav me-auto mb-md-0 paginas">
                         <li class="nav-item">
-                         <a class="nav-link <?php echo ($pg == "inicio")? "active":""; ?>" href="inicio.php">Inicio</a>
+                         <a class="nav-link <?php echo ($pg == "index")? "active":""; ?>" href="index.php">Inicio</a>
                         </li>
                         <li class="nav-item">
                           <a class="nav-link <?php echo ($pg == "sobre-mi")? "active":""; ?> " href="nosotros.php">Nosotros</a>
