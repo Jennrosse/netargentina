@@ -1,5 +1,5 @@
 <?php
-   $pg = "index";
+   $pg = "inicio";
 
    ini_set('display_errors', 1);
     ini_set('display_startup_errors', 1);
@@ -22,7 +22,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/estilos.css">
 </head>
-<body id="index" class="d-flex flex-column h-100">
+<body id="inicio" class="d-flex flex-column h-100">
     <header>
        <?php include_once("menu.php"); ?>
     </header>
