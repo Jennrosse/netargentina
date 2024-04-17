@@ -79,7 +79,7 @@
           <div class="col-6 col-sm-3">
             <div class="row">
               <div class="col-12 iconos-servicios">
-                <a href="consultoria.html"><i class="fa-solid fa-user-tie"></i></a>
+                <a href="consultoria.php"><i class="fa-solid fa-user-tie"></i></a>
               </div>
               <div class="col-12">
                 <h6>Consultoría</h6>
@@ -89,7 +89,7 @@
           <div class="col-6 col-sm-3">
             <div class="row">
               <div class="col-12 iconos-servicios">
-                <a href="informatica.html"><i class="fa-solid fa-laptop"></i></a>
+                <a href="informatica.php"><i class="fa-solid fa-laptop"></i></a>
               </div>
               <div class="col-12">
                   <h6>Informática</h6>
@@ -99,7 +99,7 @@
           <div class="col-6 col-sm-3">
             <div class="row">
               <div class="col-12 iconos-servicios">
-                <a href="redes.html"><i class="fa-solid fa-network-wired"></i></a>
+                <a href="redes.php"><i class="fa-solid fa-network-wired"></i></a>
               </div>
               <div class="col-12">
                   <h6>Redes</h6>
