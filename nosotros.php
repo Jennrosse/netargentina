@@ -92,7 +92,7 @@
         </div>
       </div>
       <div class="whatsapp-link">
-        <a href="https://wa.me/3705075138" target="_blank" title="Chatea por WhatsApp"><i class="fa-brands fa-square-whatsapp ic-wsp"></i></a>
+        <a href="https://api.whatsapp.com/send?phone=5492974200925" target="_blank" title="Chatea por WhatsApp"><i class="fa-brands fa-square-whatsapp ic-wsp"></i></a>
       </div>
     </main>
     <footer class="container-fluid mt-5 pt-5 logo-footer foot">

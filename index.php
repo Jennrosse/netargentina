@@ -109,7 +109,7 @@
           <div class="col-6 col-sm-3">
             <div class="row">
               <div class="col-12 iconos-servicios">
-                <a href="ciberseguridad.html"><i class="fa-solid fa-lock"></i></a>
+                <a href="ciberseguridad.php"><i class="fa-solid fa-lock"></i></a>
               </div>
               <div class="col-12">
                   <h6>Ciberseguridad</h6>
