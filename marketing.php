@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" href="./images/logo-fondo.png" type="image/x-icon">
-    <title>Contacto</title>
+    <title>Marketing</title>
     <link rel="stylesheet" href="css/fontawesome/css/all.min.css">
     <link rel="stylesheet" href="css/fontawesome/js/fontawesome.min.js">
     <link rel="stylesheet" href="css/bootstrap/css/bootstrap.min.css">
@@ -17,25 +17,28 @@
        <?php include_once("menu.php"); ?>
     </header>
     <main>
-      <div class="row container pt-5 mt-3  informatica-banner">
-        <div class="col-12 col-sm-6">
-          <i class="fa-solid fa-laptop i-2 icono-consultoria"></i>
+      <div class="row container pt-5 mt-3 informatica-banner">
+        <div class="col-12 col-sm-6 i-3">
+          <i class="fa-solid fa-bullhorn icono-consultoria"></i>
         </div>
         <div class="col-12 col-sm-6 banner-consultoria">
           <div class="row">
             <div class="col-12 pb-4">
-              <h2 class="h2-consultoria">Informática</h2>
+              <h2 class="h2-consultoria">Marketing Digital</h2>
             </div>
           </div>
           <div class="row">
             <div class="col-12 p-consultoria">
-             <p><i class="fa-solid fa-check"></i> Actualización tecnológica en equipamiento tecnológico.</p>
-             <p><i class="fa-solid fa-check"></i> Instalación y mantenimiento informático.</p>
-             <p><i class="fa-solid fa-check"></i> Integración de Sistemas.</p>
-             <p><i class="fa-solid fa-check"></i> Asesoramiento técnico y comercial.</p>
-             <p><i class="fa-solid fa-check"></i> Instalación, Soporte y Mantenimiento.</p>
-             <p><i class="fa-solid fa-check"></i> Salas de Control y Salas de Computo.</p>
-             <p><i class="fa-solid fa-check"></i> Servidores.</p>
+             <p><i class="fa-solid fa-check"></i> Pautas en redes sociales.</p>
+             <p><i class="fa-solid fa-check"></i> Google ADS Search.</p>
+             <p><i class="fa-solid fa-check"></i> Google ADS Display.</p>
+             <p><i class="fa-solid fa-check"></i> Google ADS Remarketing.</p>
+             <p><i class="fa-solid fa-check"></i> Google ADS Shopping.</p>
+             <p><i class="fa-solid fa-check"></i> Facebook e Instagram ADS.</p>
+             <p><i class="fa-solid fa-check"></i> Branding.</p>
+             <p><i class="fa-solid fa-check"></i> E-Mail Marketing.</p>
+             <p><i class="fa-solid fa-check"></i> Markets place.</p>
+             <p><i class="fa-solid fa-check"></i> Ecosistema E-commerce.</p>
             </div>
           </div>
         </div>

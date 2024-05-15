@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" href="./images/logo-fondo.png" type="image/x-icon">
-    <title>Contacto</title>
+    <title>Telecomunicaciones</title>
     <link rel="stylesheet" href="css/fontawesome/css/all.min.css">
     <link rel="stylesheet" href="css/fontawesome/js/fontawesome.min.js">
     <link rel="stylesheet" href="css/bootstrap/css/bootstrap.min.css">
@@ -17,25 +17,24 @@
        <?php include_once("menu.php"); ?>
     </header>
     <main>
-      <div class="row container pt-5 mt-3  informatica-banner">
+      <div class="row container pt-5 mt-3 pb-4">
         <div class="col-12 col-sm-6">
-          <i class="fa-solid fa-laptop i-2 icono-consultoria"></i>
+          <i class="fa-solid fa-tower-broadcast icono-consultoria"></i>
         </div>
         <div class="col-12 col-sm-6 banner-consultoria">
           <div class="row">
             <div class="col-12 pb-4">
-              <h2 class="h2-consultoria">Informática</h2>
+              <h2 class="h2-consultoria">Telecomunicaciones</h2>
             </div>
           </div>
           <div class="row">
             <div class="col-12 p-consultoria">
-             <p><i class="fa-solid fa-check"></i> Actualización tecnológica en equipamiento tecnológico.</p>
-             <p><i class="fa-solid fa-check"></i> Instalación y mantenimiento informático.</p>
-             <p><i class="fa-solid fa-check"></i> Integración de Sistemas.</p>
-             <p><i class="fa-solid fa-check"></i> Asesoramiento técnico y comercial.</p>
-             <p><i class="fa-solid fa-check"></i> Instalación, Soporte y Mantenimiento.</p>
-             <p><i class="fa-solid fa-check"></i> Salas de Control y Salas de Computo.</p>
-             <p><i class="fa-solid fa-check"></i> Servidores.</p>
+             <p><i class="fa-solid fa-check"></i> Diseño de redes en telecomunicaciones.</p>
+             <p><i class="fa-solid fa-check"></i> Análisis de fallos y configuración de equipos asociados a redes de comunicaciones.</p>
+             <p><i class="fa-solid fa-check"></i> Elaboración de pliegos de especificaciones técnicas para licitaciones públicas o concursos privados, evaluación técnica de ofertas y auditorías de obras.</p>
+             <p><i class="fa-solid fa-check"></i> Auditorias de redes e infraestructura crítica IT.</p>
+             <p><i class="fa-solid fa-check"></i> Monitoreo y análisis de comportamiento de redes y sistemas de telecomunicaciones.</p>
+             <p><i class="fa-solid fa-check"></i> Capacitaciones en tecnologías específicas.</p>
             </div>
           </div>
         </div>

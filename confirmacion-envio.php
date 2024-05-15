@@ -30,8 +30,8 @@
         <div class="mb-5">
         </div>
     </main>
-    <footer class="container-fluid logo-footer foot">
-      <div class="row pb-4 mt-5">
+    <footer class="container-fluid mt-5 pt-5 logo-footer foot">
+      <div class="row pb-4">
         <div class="col-12">
           <a href="https://netargentina.com.ar/">
             <img src="images/LOGOEDIT1-768x101.png" alt="logo" width="230" height="45" class="d-inline-block align-text-top img-logo">
@@ -39,40 +39,48 @@
         </div>
       </div>
       <div class="row">
-        <div class="col-12 col-sm-4">
-          <div class="row iconos-footer">
+        <div class="col-12 col-sm-4 iconos-footer">
+          <div class="row">
             <div class="col-12">
               <h2>Buenos Aires</h2>
             </div>
-            <div class="col-12">
+            <div class="col-12 pt-2">
               <p class="info"><i class="fas fa-map-marker-alt icono-f"></i> Bacacay 2122 5 piso Dto. E <br> (1406) C.A.B.A. Argentina</p>
-              <p class="info"><i class="fas fa-phone-alt icono-f"></i> +54 11 5263 7034</p>
+              <p class="info"><i class="fas fa-phone-alt icono-f"></i> +54 11 2343 3116</p>
               <p class="info"><i class="fas fa-envelope icono-f"></i> info@netargentina.com.ar</p>    
             </div>
           </div>
         </div>
-        <div class="col-12 col-sm-4">
-          <div class="row iconos-footer">
+        <div class="col-12 col-sm-4 iconos-footer px-4">
+          <div class="row">
             <div class="col-12">
               <h2>Comodoro Rivadavia</h2>
             </div>
-            <div class="col-12">
+            <div class="col-12 pt-2">
               <p class="info"><i class="fas fa-map-marker-alt icono-f"></i> Alte. Brown 653 2 piso (9000) Comodoro Rivadavia – Argentina</p>
               <p class="info"><i class="fas fa-phone-alt icono-f"></i> +54 9 297 420 0925</p>
               <p class="info"><i class="fas fa-envelope icono-f"></i> info@netargentina.com.ar</p>    
             </div>
         </div>
         </div>
-        <div class="col-12 col-sm-4">
-          <div class="row iconos-footer">
+        <div class="col-12 col-sm-4 iconos-footer px-4">
+          <div class="row">
             <div class="col-12">
               <h2>Servicios</h2>
             </div>
-            <div class="col-12">
-              <p class="info"><i class="fa-solid fa-user icono-f"></i> Consultoria</p>
-              <p class="info"><i class="fa-solid fa-code-branch icono-f"></i> Informática</p>
-              <p class="info"><i class="fa-solid fa-network-wired icono-f"></i> Redes</p> 
-              <p class="info"><i class="fa-solid fa-lock icono-f"></i> Seguridad</p>   
+            <div class="col-12 pt-2">
+                <div class="row">
+                   <div class="col-6">
+                     <p class="info"><i class="fa-solid fa-bullhorn icono-f"></i> Marketing Digital</p>
+                     <p class="info"><i class="fa-solid fa-video icono-f"></i> Sistemas de observación</p>
+                     <p class="info"><i class="fa-solid fa-lock icono-f"></i> Ciberseguridad</p>  
+                   </div>
+                   <div class="col-6">
+                     <p class="info"><i class="fa-solid fa-code-branch icono-f"></i> Informática</p>
+                     <p class="info"><i class="fa-solid fa-network-wired icono-f"></i> Redes</p> 
+                     <p class="info"><i class="fa-solid fa-tower-broadcast icono-f"></i> Telecomunicaciones</p>
+                   </div>
+                </div>
             </div>
           </div>
         </div>
