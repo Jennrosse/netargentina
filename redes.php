@@ -68,7 +68,7 @@
             </div>
           </div>
         </div>
-        <div class="col-12 col-sm-4 iconos-footer px-4">
+        <div class="col-12 col-sm-4 iconos-footer">
           <div class="row">
             <div class="col-12">
               <h2>Comodoro Rivadavia</h2>
@@ -80,7 +80,7 @@
             </div>
         </div>
         </div>
-        <div class="col-12 col-sm-4 iconos-footer px-4">
+        <div class="col-12 col-sm-4 iconos-footer">
           <div class="row">
             <div class="col-12">
               <h2>Servicios</h2>
@@ -89,13 +89,13 @@
                 <div class="row">
                    <div class="col-6">
                      <p class="info"><i class="fa-solid fa-bullhorn icono-f"></i> Marketing Digital</p>
-                     <p class="info"><i class="fa-solid fa-video icono-f"></i> Sistemas de observación</p>
+                     <p class="info"><i class="fa-solid fa-video icono-f"></i> Sistemas</p>
                      <p class="info"><i class="fa-solid fa-lock icono-f"></i> Ciberseguridad</p>  
                    </div>
                    <div class="col-6">
                      <p class="info"><i class="fa-solid fa-code-branch icono-f"></i> Informática</p>
                      <p class="info"><i class="fa-solid fa-network-wired icono-f"></i> Redes</p> 
-                     <p class="info"><i class="fa-solid fa-tower-broadcast icono-f"></i> Telecomunicaciones</p>
+                     <p class="info"><i class="fa-solid fa-tower-broadcast icono-f"></i> Comunicaciones</p>
                    </div>
                 </div>
             </div>
