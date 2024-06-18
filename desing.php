@@ -1,14 +1,10 @@
-<?php
-$pg = "contacto";
-?>
-
 <!DOCTYPE html>
 <html lang="es" class="h-100">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" href="./images/logo-fondo.png" type="image/x-icon">
-    <title>Contacto</title>
+    <title>Diseño</title>
     <link rel="stylesheet" href="css/fontawesome/css/all.min.css">
     <link rel="stylesheet" href="css/fontawesome/js/fontawesome.min.js">
     <link rel="stylesheet" href="css/bootstrap/css/bootstrap.min.css">
@@ -16,56 +12,36 @@ $pg = "contacto";
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/estilos.css">
 </head>
-<body id="contacto" class="d-flex flex-column h-100">
+<body id="inicio" class="d-flex flex-column h-100">
     <header>
-      <?php include_once("menu.php"); ?>
+       <?php include_once("menu.php"); ?>
     </header>
-    <main class="container pb-5">
-        <div class="row">
-            <div class="col-12 pt-4 pb-4">
-                <h1>Contacto</h1>
-            </div>
+    <main>
+      <div class="row container pt-5 mt-3 informatica-banner">
+        <div class="col-12 col-sm-6 i-3">
+          <i class="fa-solid fa-square-pen icono-consultoria"></i>
         </div>
-        <div class="row">
-            <div class="col-12 col-sm-6">
-                <p class="p-form">Completa el siguiente formulario y te contactaremos a la brevedad.</p>
+        <div class="col-12 col-sm-6 banner-consultoria">
+          <div class="row">
+            <div class="col-12 pb-4">
+              <h2 class="h2-consultoria">Diseño & Content Marketing</h2>
             </div>
-            <div class="col-12 col-sm-6">
-                <form action="" method="POST">
-                    <div class="pb-3">
-                        <input type="text" name="txtNombre" id="txtNombre" placeholder="Nombre" class="form-control shadow">
-                    </div>
-                    <div class="pb-3">
-                        <input type="email" name="txtCorreo" id="txtCorreo" placeholder="Correo" class="form-control shadow">
-                    </div>
-                    <div class="pb-3">
-                        <input type="tel" name="txtTelefono" id="txtTelefono" placeholder="Teléfono/WhatsApp" class="form-control shadow">
-                    </div>
-                    <div class="pb-3">
-                        <textarea name="txtMensaje" id="txtMensaje" placeholder="Escribe aquí tu mensaje" class="form-control shadow"></textarea>
-                    </div>
-                    <div>
-                      <button type="submit" class="btn" id="btnEnviar" name="btnEnviar"><a class= "nav-link" href="confirmacion-envio.php">ENVIAR</a></button>
-                    </div>
-                </form>
+          </div>
+          <div class="row">
+            <div class="col-12 p-consultoria">
+             <p><i class="fa-solid fa-check"></i> Diseño gráfico en general.</p>
+             <p><i class="fa-solid fa-check"></i> Diseño de presentaciones.</p>
+             <p><i class="fa-solid fa-check"></i> Manual de marca e identidad.</p>
+             <p><i class="fa-solid fa-check"></i> Kit de marketing.</p>
+             <p><i class="fa-solid fa-check"></i> Diseño de logotipo.</p>
             </div>
+          </div>
         </div>
-        <div class="whatsapp-link">
-          <a href="https://api.whatsapp.com/send?phone=5492974200925" target="_blank" title="Chatea por WhatsApp"><i class="fa-brands fa-square-whatsapp ic-wsp"></i></a>
-        </div>
+      </div>
+      <div class="whatsapp-link">
+        <a href="https://api.whatsapp.com/send?phone=5492974200925" target="_blank" title="Chatea por WhatsApp"><i class="fa-brands fa-square-whatsapp ic-wsp"></i></a>
+      </div>
     </main>
-    <!--<footer class="container mt-auto pb-5 pt-4">
-      <div class="row">
-        <div class="col-12">
-          <img src="images/LOGOEDIT1-768x101.png" alt="Logo" width="230" height="45" class="d-inline-block align-text-top img-logo">
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-12 col-sm-4">
-
-        </div>
-      </div>
-    </footer>-->
     <footer class="container-fluid mt-5 pt-5 logo-footer foot">
       <div class="row pb-4">
         <div class="col-12">

@@ -14,7 +14,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" href="./images/logo-fondo.png" type="image/x-icon">
-    <title>Home</title>
+    <title>Net Argentina</title>
     <link rel="stylesheet" href="css/fontawesome/css/all.min.css">
     <link rel="stylesheet" href="css/fontawesome/js/fontawesome.min.js">
     <link rel="stylesheet" href="css/bootstrap/css/bootstrap.min.css">
@@ -36,17 +36,23 @@
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam, repellendus.</p>
                     </div>-->
                 </div>
-                <div class="carousel-item" data-bs-interval="2000">
-                    <img src="./images/carrusel3.jpg" class="d-block w-100 object-fit-cover" alt="...">
+                <div class="carousel-item" data-bs-interval="3000">
+                    <img src="./images/mkt2.jpg" class="d-block w-100 object-fit-cover" alt="..."> <!--carrusel3.jpg-->
                 </div>
                 <div class="carousel-item" data-bs-interval="3000">
-                    <img src="./images/carrusel2.jpg" class="d-block w-100  object-fit-cover" alt="...">
+                    <img src="./images/ciber.jpeg" class="d-block w-100  object-fit-cover" alt="..."><!--carrusel2.jpg-->
                 </div>
                 <div class="carousel-item" data-bs-interval="3000">
-                    <img src="./images/carrusel-1.jpg" class="d-block w-100  object-fit-cover" alt="...">
+                    <img src="./images/vig2.jpg" class="d-block w-100  object-fit-cover" alt="..."><!--carrusel-5.jpg-->
                 </div>
                 <div class="carousel-item" data-bs-interval="3000">
-                    <img src="./images/carrusel5.jpg" class="d-block w-100  object-fit-cover" alt="...">
+                    <img src="./images/redes.jpg" class="d-block w-100  object-fit-cover" alt="...">
+                </div>
+                <div class="carousel-item" data-bs-interval="3000">
+                    <img src="./images/diseno-grafico.jpg" class="d-block w-100  object-fit-cover" alt="...">
+                </div>
+                <div class="carousel-item" data-bs-interval="3000">
+                    <img src="./images/inffor.jpg" class="d-block w-100  object-fit-cover" alt="...">
                 </div>
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
@@ -59,15 +65,14 @@
             </button>
             <div class="carousel-caption">
                 <h3 class="somos">Somos <img src="images/LOGOEDIT1-768x101.png" alt="logo" width="300" height="75" class="d-inline-block img-logo logo-lg"></h3>
-                <h3>Soluciones en tecnología, voz y datos.</h3>
+                <h3>Haciendo transformación digital.</h3>
             </div>
         </div>
         <div class="row">
           <div class="col-12">
             <h1 class="pb-2">¿Qué hacemos?</h1>
-            <h4 class="pt-3">Somos una empresa dedicada al diseño y gestión de</h4>
-            <h4>soluciones integrales en telecomunicaciones, ciberseguridad, redes, informática,</h4>
-            <h4>energía y seguridad física.</h4>
+            <h4 class="pt-3 p-2">Somos una empresa dedicada al diseño y gestión de</h4>
+            <h4>soluciones integrales en tecnología.</h4>
           </div>
         </div>
         <div class="row mt-4">
@@ -76,7 +81,7 @@
           </div>
         </div>
         <div class="row hipervinculos mb-4">
-          <div class="col-6 col-sm-4">
+          <div class="col-12 col-sm-3 py-3">
             <div class="row">
               <div class="col-12 iconos-servicios">
                 <a href="marketing.php"><i class="fa-solid fa-bullhorn"></i></a>
@@ -86,7 +91,7 @@
               </div>
             </div>
           </div>
-          <div class="col-6 col-sm-4">
+          <div class="col-12 col-sm-3 py-3">
             <div class="row">
               <div class="col-12 iconos-servicios">
                 <a href="ciberseguridad.php"><i class="fa-solid fa-lock"></i></a>
@@ -96,7 +101,7 @@
               </div>
             </div>
           </div>
-          <div class="col-6 col-sm-4">
+          <div class="col-12 col-sm-3 py-3">
             <div class="row">
               <div class="col-12 iconos-servicios">
                 <a href="sistemas.php"><i class="fa-solid fa-video"></i></a>
@@ -106,7 +111,7 @@
               </div>
             </div>
           </div>
-          <div class="col-6 col-sm-4">
+          <div class="col-12 col-sm-3 py-3">
             <div class="row">
               <div class="col-12 iconos-servicios">
                 <a href="informatica.php"><i class="fa-solid fa-laptop"></i></a>
@@ -116,7 +121,7 @@
               </div>
             </div>
           </div>
-          <div class="col-6 col-sm-4">
+          <div class="col-12 col-sm-3 py-3">
             <div class="row">
               <div class="col-12 iconos-servicios">
                 <a href="redes.php"><i class="fa-solid fa-network-wired"></i></a>
@@ -126,13 +131,33 @@
               </div>
             </div>
           </div>
-          <div class="col-6 col-sm-4">
+          <div class="col-12 col-sm-3 py-3">
             <div class="row">
               <div class="col-12 iconos-servicios">
                 <a href="telecomunicaciones.php"><i class="fa-solid fa-tower-broadcast"></i></a>
               </div>
               <div class="col-12">
                 <h6>Telecomunicaciones</h6>
+              </div>
+            </div>
+          </div>
+          <div class="col-12 col-sm-3 py-3">
+            <div class="row">
+              <div class="col-12 iconos-servicios">
+                <a href="desing.php"><i class="fa-solid fa-square-pen"></i></a>
+              </div>
+              <div class="col-12">
+                <h6>Diseño & Content Marketing</h6>
+              </div>
+            </div>
+          </div>
+          <div class="col-12 col-sm-3 py-3">
+            <div class="row">
+              <div class="col-12 iconos-servicios">
+                <a href="inf-forense.php"><i class="fa-solid fa-user-secret"></i></a>
+              </div>
+              <div class="col-12">
+                <h6>Informática forense</h6>
               </div>
             </div>
           </div>
@@ -157,7 +182,7 @@
             </div>
             <div class="col-12 pt-2">
               <p class="info"><i class="fas fa-map-marker-alt icono-f"></i> Bacacay 2122 5 piso Dto. E <br> (1406) C.A.B.A. Argentina</p>
-              <p class="info"><i class="fas fa-phone-alt icono-f"></i> +54 11 2343 3116</p>
+              <p class="info"><i class="fa-regular fa-comments icono-f"></i> +54 11 2343 3116</p>
               <p class="info"><i class="fas fa-envelope icono-f"></i> info@netargentina.com.ar</p>    
             </div>
           </div>
@@ -169,27 +194,22 @@
             </div>
             <div class="col-12 pt-2">
               <p class="info"><i class="fas fa-map-marker-alt icono-f"></i> Alte. Brown 653 2 piso (9000) Comodoro Rivadavia – Argentina</p>
-              <p class="info"><i class="fas fa-phone-alt icono-f"></i> +54 9 297 420 0925</p>
+              <p class="info"><i class="fa-regular fa-comments icono-f"></i> +54 9 297 420 0925</p>
               <p class="info"><i class="fas fa-envelope icono-f"></i> info@netargentina.com.ar</p>    
             </div>
-        </div>
+          </div>
         </div>
         <div class="col-12 col-sm-4 iconos-footer">
           <div class="row">
             <div class="col-12">
-              <h2>Servicios</h2>
+              <h2>Redes sociales</h2>
             </div>
             <div class="col-12 pt-2">
                 <div class="row">
-                   <div class="col-6">
-                     <p class="info"><i class="fa-solid fa-bullhorn icono-f"></i> Marketing Digital</p>
-                     <p class="info"><i class="fa-solid fa-video icono-f"></i> Sistemas</p>
-                     <p class="info"><i class="fa-solid fa-lock icono-f"></i> Ciberseguridad</p>  
-                   </div>
-                   <div class="col-6">
-                     <p class="info"><i class="fa-solid fa-code-branch icono-f"></i> Informática</p>
-                     <p class="info"><i class="fa-solid fa-network-wired icono-f"></i> Redes</p> 
-                     <p class="info"><i class="fa-solid fa-tower-broadcast icono-f"></i> Comunicaciones</p>
+                   <div class="col-12">
+                      <a href="https://www.facebook.com" target="_blank"><i class=" fa-brands fa-facebook px-2 info"></i></a>
+                      <a href="https://www.instagram.com" target="_blank"><i class="fa-brands fa-instagram px-2 info"></i></a>
+                      <a href="https://www.linkedin.com" target="_blank"><i class="fa-brands fa-linkedin-in px-2 info"></i></a> 
                    </div>
                 </div>
             </div>

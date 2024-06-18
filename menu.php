@@ -12,7 +12,7 @@
                    <span class="navbar-toggler-icon"></span>
                   </button>
                   <div class="collapse navbar-collapse paginas" id="navbarCollapse">
-                     <ul class="navbar-nav me-auto mb-md-0 paginas">
+                    <ul class="navbar-nav me-auto mb-md-0 paginas">
                         <li class="nav-item">
                          <a class="nav-link <?php echo ($pg == "index")? "active":""; ?>" href="index.php">Inicio</a>
                         </li>
@@ -28,8 +28,9 @@
                         <li class="nav-item">
                         <a class="nav-link <?php echo ($pg == "portfolio")? "active":""; ?>" href="portfolio.php">Portfolio</a>
                         </li> -->
-                     </ul>
-                  </div>
+                    </ul>
+                    </div>
+                  </div>  
                 </div>
               </div>
             </div>

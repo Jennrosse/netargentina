@@ -34,7 +34,7 @@
       </div>
       <div class="row mb-3">
         <div class="col-12 mt-3">
-          <p class="p-nos">Somos una empresa comprometida con la transformación digital y el desarrollo de proyectos de telecomunicaciones de las organizaciones. Buscamos ser un socio tecnológico estratégico para nuestros clientes. Entender sus retos es nuestro principal objetivo para así ofrecer las mejores soluciones y un excelente servicio a través de una relación a largo plazo. Nos especializamos en redes de voz y datos, cableado estructurado y sistemas de seguridad para el control de acceso.</p>
+          <p class="p-nos">Somos una empresa comprometida con la transformación digital. Buscamos ser un socio tecnológico estratégico para nuestros clientes. Entender sus retos es nuestro principal objetivo para así ofrecer las mejores soluciones y un excelente servicio a través de una relación a largo plazo.</p>
         </div>
       </div>
       <div class="row banner">
@@ -111,7 +111,7 @@
             </div>
             <div class="col-12 pt-2">
               <p class="info"><i class="fas fa-map-marker-alt icono-f"></i> Bacacay 2122 5 piso Dto. E <br> (1406) C.A.B.A. Argentina</p>
-              <p class="info"><i class="fas fa-phone-alt icono-f"></i> +54 11 2343 3116</p>
+              <p class="info"><i class="fa-regular fa-comments icono-f"></i> +54 11 2343 3116</p>
               <p class="info"><i class="fas fa-envelope icono-f"></i> info@netargentina.com.ar</p>    
             </div>
           </div>
@@ -123,27 +123,22 @@
             </div>
             <div class="col-12 pt-2">
               <p class="info"><i class="fas fa-map-marker-alt icono-f"></i> Alte. Brown 653 2 piso (9000) Comodoro Rivadavia – Argentina</p>
-              <p class="info"><i class="fas fa-phone-alt icono-f"></i> +54 9 297 420 0925</p>
+              <p class="info"><i class="fa-regular fa-comments icono-f"></i> +54 9 297 420 0925</p>
               <p class="info"><i class="fas fa-envelope icono-f"></i> info@netargentina.com.ar</p>    
             </div>
-        </div>
+          </div>
         </div>
         <div class="col-12 col-sm-4 iconos-footer">
           <div class="row">
             <div class="col-12">
-              <h2>Servicios</h2>
+              <h2>Redes sociales</h2>
             </div>
             <div class="col-12 pt-2">
                 <div class="row">
-                   <div class="col-6">
-                     <p class="info"><i class="fa-solid fa-bullhorn icono-f"></i> Marketing Digital</p>
-                     <p class="info"><i class="fa-solid fa-video icono-f"></i> Sistemas</p>
-                     <p class="info"><i class="fa-solid fa-lock icono-f"></i> Ciberseguridad</p>  
-                   </div>
-                   <div class="col-6">
-                     <p class="info"><i class="fa-solid fa-code-branch icono-f"></i> Informática</p>
-                     <p class="info"><i class="fa-solid fa-network-wired icono-f"></i> Redes</p> 
-                     <p class="info"><i class="fa-solid fa-tower-broadcast icono-f"></i> Comunicaciones</p>
+                   <div class="col-12">
+                      <a href="https://www.facebook.com" target="_blank"><i class=" fa-brands fa-facebook px-2 info"></i></a>
+                      <a href="https://www.instagram.com" target="_blank"><i class="fa-brands fa-instagram px-2 info"></i></a>
+                      <a href="https://www.linkedin.com" target="_blank"><i class="fa-brands fa-linkedin-in px-2 info"></i></a> 
                    </div>
                 </div>
             </div>
