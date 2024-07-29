@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" href="./images/logo-fondo.png" type="image/x-icon">
-    <title>Informática</title>
+    <title>Machine Learning</title>
     <link rel="stylesheet" href="css/fontawesome/css/all.min.css">
     <link rel="stylesheet" href="css/fontawesome/js/fontawesome.min.js">
     <link rel="stylesheet" href="css/bootstrap/css/bootstrap.min.css">
@@ -16,21 +16,19 @@
     <main>
       <div class="row container pt-5 mt-3 informatica-banner">
         <div class="col-12 col-sm-6 i-3">
-          <i class="fa-solid fa-user-secret icono-consultoria"></i>
+          <i class="fa-solid fa-sliders icono-consultoria"></i>
         </div>
         <div class="col-12 col-sm-6 banner-consultoria">
           <div class="row">
             <div class="col-12 pb-4">
-              <h2 class="h2-consultoria">Informática forense</h2>
+              <h2 class="h2-consultoria">Machine Learning</h2>
             </div>
           </div>
           <div class="row">
             <div class="col-12 p-consultoria">
-             <p><i class="fa-solid fa-check"></i> Recuperación de información secuestrada.</p>
-             <p><i class="fa-solid fa-check"></i> Descubrimiento de vulnerabilidades.</p>
-             <p><i class="fa-solid fa-check"></i> Identificar responsables de ataques.</p>
-             <p><i class="fa-solid fa-check"></i> Establecer medidas para prevenir reincidencia.</p>
-             <p><i class="fa-solid fa-check"></i> Presentar las pruebas ante un proceso legal.</p>
+             <p><i class="fa-solid fa-check"></i> Análisis de preferencias del cliente para la personalización automática de productos, con el objetivo de potenciar la fidelización.</p>
+             <p><i class="fa-solid fa-check"></i> Reducción de errores.</p>
+             <p><i class="fa-solid fa-check"></i> Automatización de procesos.</p>
             </div>
           </div>
         </div>

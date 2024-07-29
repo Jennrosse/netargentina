@@ -30,8 +30,8 @@
         <div class="mb-5">
         </div>
     </main>
-    <footer class="container-fluid mt-5 pt-5 logo-footer foot">
-      <div class="row pb-4">
+    <footer class="container-fluid mt-3 pt-3 logo-footer foot">
+      <div class="row pb-3">
         <div class="col-12">
           <a href="https://netargentina.com.ar/">
             <img src="images/LOGOEDIT1-768x101.png" alt="logo" width="230" height="45" class="d-inline-block align-text-top img-logo">
@@ -71,9 +71,9 @@
             <div class="col-12 pt-2">
                 <div class="row">
                    <div class="col-12">
-                      <a href="https://www.facebook.com" target="_blank"><i class=" fa-brands fa-facebook px-2 info"></i></a>
-                      <a href="https://www.instagram.com" target="_blank"><i class="fa-brands fa-instagram px-2 info"></i></a>
-                      <a href="https://www.linkedin.com" target="_blank"><i class="fa-brands fa-linkedin-in px-2 info"></i></a> 
+                      <a href="https://www.facebook.com/NetArgentinaSA/" target="_blank"><i class=" fa-brands fa-facebook px-2 info"></i></a>
+                      <a href="https://www.instagram.com/netargentinasa/" target="_blank"><i class="fa-brands fa-instagram px-2 info"></i></a>
+                      <a href="https://www.linkedin.com/in/net-argentina-22a33824b/?originalSubdomain=ar" target="_blank"><i class="fa-brands fa-linkedin-in px-2 info"></i></a> 
                    </div>
                 </div>
             </div>

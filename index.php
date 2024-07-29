@@ -14,7 +14,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" href="./images/logo-fondo.png" type="image/x-icon">
-    <title>Net Argentina</title>
+    <title>netargentina</title>
     <link rel="stylesheet" href="css/fontawesome/css/all.min.css">
     <link rel="stylesheet" href="css/fontawesome/js/fontawesome.min.js">
     <link rel="stylesheet" href="css/bootstrap/css/bootstrap.min.css">
@@ -53,6 +53,18 @@
                 </div>
                 <div class="carousel-item" data-bs-interval="3000">
                     <img src="./images/inffor.jpg" class="d-block w-100  object-fit-cover" alt="...">
+                </div>
+                <div class="carousel-item" data-bs-interval="3000">
+                    <img src="./images/data-mobile.jpg" class="d-block w-100  object-fit-cover" alt="...">
+                </div>
+                <div class="carousel-item" data-bs-interval="3000">
+                    <img src="./images/diseño-web-responsive.jpg" class="d-block w-100  object-fit-cover" alt="...">
+                </div>
+                <div class="carousel-item" data-bs-interval="3000">
+                    <img src="./images/machine-2.jpg" class="d-block w-100  object-fit-cover" alt="...">
+                </div>
+                <div class="carousel-item" data-bs-interval="3000">
+                    <img src="./images/api.jpg" class="d-block w-100  object-fit-cover" alt="...">
                 </div>
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
@@ -161,13 +173,53 @@
               </div>
             </div>
           </div>
+          <div class="col-12 col-sm-3 py-3">
+            <div class="row">
+              <div class="col-12 iconos-servicios">
+                <a href="data.php"><i class="fa-solid fa-chart-column"></i></a>
+              </div>
+              <div class="col-12">
+                <h6>Data Analytics</h6>
+              </div>
+            </div>
+          </div>
+          <div class="col-12 col-sm-3 py-3">
+            <div class="row">
+              <div class="col-12 iconos-servicios">
+                <a href="web.php"><i class="fa-solid fa-cart-arrow-down"></i></a>
+              </div>
+              <div class="col-12">
+                <h6>Diseño y Desarrollo web</h6>
+              </div>
+            </div>
+          </div>
+          <div class="col-12 col-sm-3 py-3">
+            <div class="row">
+              <div class="col-12 iconos-servicios">
+                <a href="machine-learning.php"><i class="fa-solid fa-sliders"></i></a>
+              </div>
+              <div class="col-12">
+                <h6>Machine Learning</h6>
+              </div>
+            </div>
+          </div>
+          <div class="col-12 col-sm-3 py-3">
+            <div class="row">
+              <div class="col-12 iconos-servicios">
+                <a href="api.php"><i class="fa-solid fa-cloud-arrow-up"></i></a>
+              </div>
+              <div class="col-12">
+                <h6>Desarrollo de API</h6>
+              </div>
+            </div>
+          </div>
         </div>
         <div class="whatsapp-link">
           <a href="https://api.whatsapp.com/send?phone=5492974200925" target="_blank" title="Chatea por WhatsApp"><i class="fa-brands fa-square-whatsapp ic-wsp"></i></a>
         </div>
     </main>
-    <footer class="container-fluid mt-5 pt-5 logo-footer foot">
-      <div class="row pb-4">
+    <footer class="container-fluid mt-3 pt-3 logo-footer foot">
+      <div class="row pb-3">
         <div class="col-12">
           <a href="https://netargentina.com.ar/">
             <img src="images/LOGOEDIT1-768x101.png" alt="logo" width="230" height="45" class="d-inline-block align-text-top img-logo">
@@ -207,9 +259,9 @@
             <div class="col-12 pt-2">
                 <div class="row">
                    <div class="col-12">
-                      <a href="https://www.facebook.com" target="_blank"><i class=" fa-brands fa-facebook px-2 info"></i></a>
-                      <a href="https://www.instagram.com" target="_blank"><i class="fa-brands fa-instagram px-2 info"></i></a>
-                      <a href="https://www.linkedin.com" target="_blank"><i class="fa-brands fa-linkedin-in px-2 info"></i></a> 
+                      <a href="https://www.facebook.com/NetArgentinaSA/" target="_blank"><i class=" fa-brands fa-facebook px-2 info"></i></a>
+                      <a href="https://www.instagram.com/netargentinasa/" target="_blank"><i class="fa-brands fa-instagram px-2 info"></i></a>
+                      <a href="https://www.linkedin.com/in/net-argentina-22a33824b/?originalSubdomain=ar" target="_blank"><i class="fa-brands fa-linkedin-in px-2 info"></i></a> 
                    </div>
                 </div>
             </div>

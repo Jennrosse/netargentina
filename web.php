@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" href="./images/logo-fondo.png" type="image/x-icon">
-    <title>Informática</title>
+    <title>Diseño web</title>
     <link rel="stylesheet" href="css/fontawesome/css/all.min.css">
     <link rel="stylesheet" href="css/fontawesome/js/fontawesome.min.js">
     <link rel="stylesheet" href="css/bootstrap/css/bootstrap.min.css">
@@ -16,21 +16,22 @@
     <main>
       <div class="row container pt-5 mt-3 informatica-banner">
         <div class="col-12 col-sm-6 i-3">
-          <i class="fa-solid fa-user-secret icono-consultoria"></i>
+          <i class="fa-solid fa-cart-arrow-down icono-consultoria"></i>
         </div>
         <div class="col-12 col-sm-6 banner-consultoria">
           <div class="row">
             <div class="col-12 pb-4">
-              <h2 class="h2-consultoria">Informática forense</h2>
+              <h2 class="h2-consultoria">Diseño y Desarrollo web</h2>
             </div>
           </div>
           <div class="row">
             <div class="col-12 p-consultoria">
-             <p><i class="fa-solid fa-check"></i> Recuperación de información secuestrada.</p>
-             <p><i class="fa-solid fa-check"></i> Descubrimiento de vulnerabilidades.</p>
-             <p><i class="fa-solid fa-check"></i> Identificar responsables de ataques.</p>
-             <p><i class="fa-solid fa-check"></i> Establecer medidas para prevenir reincidencia.</p>
-             <p><i class="fa-solid fa-check"></i> Presentar las pruebas ante un proceso legal.</p>
+             <p><i class="fa-solid fa-check"></i> Creción y diseño de sitios web a medida.</p>
+             <p><i class="fa-solid fa-check"></i> Desarrollo de tiendas en línea.</p>
+             <p><i class="fa-solid fa-check"></i> Diseño adaptativo y móvil.</p>
+             <p><i class="fa-solid fa-check"></i> Mantenimiento y soporte continuo de sitios web.</p>
+             <p><i class="fa-solid fa-check"></i> Seguridad, escalabilidad y optimización para motores de búsqueda en sitios web.</p>
+             <p><i class="fa-solid fa-check"></i> Desarrollo de funcionalidades de comercio electrónico.</p>
             </div>
           </div>
         </div>

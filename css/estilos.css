@@ -17,12 +17,10 @@
     box-shadow: none;
     padding-right: 30px;
 }
-/*.navbar-brand{
-    padding-left: 30px;
-}*/
 .barra-nav{
     background-color: rgb(246, 249, 254);
     margin-bottom: 10px;
+    /*position: fixed;*/
 }
 .paginas{
     font-size: 23px;
@@ -278,7 +276,7 @@ h6{
     }
     .navbar .container-fluid .row .col-md-6 .img-logo {
         margin: 10px;
-
+        /*position: static;*/
     }
     .iconos-footer {
         padding-left: 50px; /* Ajusta el valor del padding según tus necesidades */

@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" href="./images/logo-fondo.png" type="image/x-icon">
-    <title>Contacto</title>
+    <title>Informatica</title>
     <link rel="stylesheet" href="css/fontawesome/css/all.min.css">
     <link rel="stylesheet" href="css/fontawesome/js/fontawesome.min.js">
     <link rel="stylesheet" href="css/bootstrap/css/bootstrap.min.css">
@@ -13,9 +13,6 @@
     <link rel="stylesheet" href="css/estilos.css">
 </head>
 <body id="inicio" class="d-flex flex-column h-100">
-    <header>
-       <?php include_once("menu.php"); ?>
-    </header>
     <main>
       <div class="row container pt-5 mt-3  informatica-banner">
         <div class="col-12 col-sm-6">
@@ -44,8 +41,8 @@
         <a href="https://api.whatsapp.com/send?phone=5492974200925" target="_blank" title="Chatea por WhatsApp"><i class="fa-brands fa-square-whatsapp ic-wsp"></i></a>
       </div>
     </main>
-    <footer class="container-fluid mt-5 pt-5 logo-footer foot">
-      <div class="row pb-4">
+    <footer class="container-fluid mt-3 pt-3 logo-footer foot">
+      <div class="row pb-3">
         <div class="col-12">
           <a href="https://netargentina.com.ar/">
             <img src="images/LOGOEDIT1-768x101.png" alt="logo" width="230" height="45" class="d-inline-block align-text-top img-logo">
@@ -85,9 +82,9 @@
             <div class="col-12 pt-2">
                 <div class="row">
                    <div class="col-12">
-                      <a href="https://www.facebook.com" target="_blank"><i class=" fa-brands fa-facebook px-2 info"></i></a>
-                      <a href="https://www.instagram.com" target="_blank"><i class="fa-brands fa-instagram px-2 info"></i></a>
-                      <a href="https://www.linkedin.com" target="_blank"><i class="fa-brands fa-linkedin-in px-2 info"></i></a> 
+                      <a href="https://www.facebook.com/NetArgentinaSA/" target="_blank"><i class=" fa-brands fa-facebook px-2 info"></i></a>
+                      <a href="https://www.instagram.com/netargentinasa/" target="_blank"><i class="fa-brands fa-instagram px-2 info"></i></a>
+                      <a href="https://www.linkedin.com/in/net-argentina-22a33824b/?originalSubdomain=ar" target="_blank"><i class="fa-brands fa-linkedin-in px-2 info"></i></a> 
                    </div>
                 </div>
             </div>

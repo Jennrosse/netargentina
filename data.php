@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" href="./images/logo-fondo.png" type="image/x-icon">
-    <title>Informática</title>
+    <title>Data Analytics</title>
     <link rel="stylesheet" href="css/fontawesome/css/all.min.css">
     <link rel="stylesheet" href="css/fontawesome/js/fontawesome.min.js">
     <link rel="stylesheet" href="css/bootstrap/css/bootstrap.min.css">
@@ -16,21 +16,23 @@
     <main>
       <div class="row container pt-5 mt-3 informatica-banner">
         <div class="col-12 col-sm-6 i-3">
-          <i class="fa-solid fa-user-secret icono-consultoria"></i>
+          <i class="fa-solid fa-chart-column icono-consultoria"></i>
         </div>
         <div class="col-12 col-sm-6 banner-consultoria">
           <div class="row">
             <div class="col-12 pb-4">
-              <h2 class="h2-consultoria">Informática forense</h2>
+              <h2 class="h2-consultoria">Data Analytics</h2>
             </div>
           </div>
           <div class="row">
             <div class="col-12 p-consultoria">
-             <p><i class="fa-solid fa-check"></i> Recuperación de información secuestrada.</p>
-             <p><i class="fa-solid fa-check"></i> Descubrimiento de vulnerabilidades.</p>
-             <p><i class="fa-solid fa-check"></i> Identificar responsables de ataques.</p>
-             <p><i class="fa-solid fa-check"></i> Establecer medidas para prevenir reincidencia.</p>
-             <p><i class="fa-solid fa-check"></i> Presentar las pruebas ante un proceso legal.</p>
+             <p><i class="fa-solid fa-check"></i> Análisis y visualización de datos.</p>
+             <p><i class="fa-solid fa-check"></i> Integración de datos.</p>
+             <p><i class="fa-solid fa-check"></i> Automatización de informes y procesos.</p>
+             <p><i class="fa-solid fa-check"></i> Desarrollo de modelos predictivos y prescriptivos.</p>
+             <p><i class="fa-solid fa-check"></i> Ayudamos a tomar decisiones estratégicas.</p>
+             <p><i class="fa-solid fa-check"></i> Optimizamos la experiencia UX y del cliente.</p>
+             <p><i class="fa-solid fa-check"></i> Reducimos costos e impulsamos el crecimiento y la rentabilidad.</p>
             </div>
           </div>
         </div>
